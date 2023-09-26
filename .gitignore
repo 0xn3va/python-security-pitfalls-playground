@@ -1,0 +1,13 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# macOS specific folders
+.DS_Store
+
+# VSCode specific folders
+.vscode
+
+# venv
+venv/
